@@ -222,3 +222,47 @@ footer{
 footer .questions{
     padding:34px 0px;
 }
+@media only screen and (max-width:902px){
+    .secimg video{
+        width:39vw;
+    }
+    
+}
+@media only screen and (min-width: 300px) and (max-width:850px){
+    .main div button {
+        transform:translateX(114px);
+
+    }}
+   
+    @media only screen and (max-width:733px) and (min-width:383px){
+        .main span img{
+            transform: translateX(-117px);
+}
+
+        }
+    @media only screen and (max-width:675px) and (min-width:451px){
+        .btnred2{
+            transform: translateY(-4px);
+             transform:translateX(5px);
+           
+        
+    
+    width: 90px;
+    font-size: 11px;
+}
+            
+        }
+        @media only screen and (max-width:650px) and (min-width:300px){
+            .hero span:first-child{
+                font-size: 23px;
+
+
+            }}
+            @media only screen and (max-width:800px) and (min-width:300px){
+            .secimg1 img{
+                width:250px;
+            
+            }}
+
+
+       
